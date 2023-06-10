@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#design1{
+    width:auto;
+    height: 45rem;
+    position: absolute;
+}
+#boy{
+    width:auto;
+    height: 44rem;
+    z-index: 1;
+    position: relative;
+}
+
+#b2s{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 100px;
+    line-height: 110%;
+    margin-bottom: 47px;
+
+}
+#school{
+    color: #470d78;
+    font-size: 150px;
+
+}
+#txt{
+   color: #1c2632;
+   font-family: 'Garet', sans-serif;
+   line-height: 150%;
+    font-size: 30px;
+
+}
+button{
+    font-family: 'Fredoka', sans-serif;
+    background-color: #ff6b79;
+    color: white;
+    border: 0px;
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+
+/* .socialMedia{
+    width: 30px;
+    margin-top: 45px;
+    z-index: 0;
+} */
+span{
+
+    font-family: 'Garet', sans-serif;
+    
+
+}
+
+#design2 {
+    position: absolute;
+    margin-top: -128px;
+    width: 300px;
+    margin-left: 367px;
+}
+
+.parent{
+    width:100%;
+    height:76px;
+    margin-top: 28px;
+    display:flex;
+    text-align:center;
+    align-items:center;
+    justify-content:center;
+  }
+  #space{
+    width:10px;
+    display:inline-block;
+  }
+  .child {
+    font-family: 'Garet', sans-serif;
+    font-size: 14px;
+    width: 168px;
+    height: 49px;
+    line-height: 34px;
+    display: flex;
+    vertical-align: top;
+}
+  
+  .clipart{
+      vertical-align:middle;
+      display:inline-block;
+      clear:left;
+  }
